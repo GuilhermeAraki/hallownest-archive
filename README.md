@@ -75,30 +75,6 @@ Built with the **Hallownest Dark Editorial** design system, Next.js 16 App Route
 - **Icons**: Lucide React
 - **Storage**: Browser LocalStorage with JSON backup/restore (optional Supabase synchronization ready)
 
----
-
-## 🚀 Running Locally
-
-```bash
-# Install dependencies
-npm install
-
-# Run the development server
-npm run dev
-
-# Open in browser
-http://localhost:3000
-```
-
-### Production Build
-
-```bash
-# Compile and validate static prerendering
-npm run build
-
-# Start production server
-npm run start
-```
 
 ---
 
