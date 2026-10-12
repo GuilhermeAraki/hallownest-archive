@@ -102,20 +102,6 @@ npm run start
 
 ---
 
-## 🌐 Free-Tier Deployment
-
-### Deploy to Vercel
-1. Push your repository to GitHub.
-2. Import repository in [Vercel](https://vercel.com).
-3. The Next.js preset will automatically detect App Router and Turbopack.
-4. Click **Deploy**.
-
-### Deploy to Cloudflare Pages / Netlify
-1. Build command: `npm run build`
-2. Output directory: `.next` (or `@cloudflare/next-on-pages` adapter for edge runtime).
-
----
-
 ## ⚖️ Legal & Attribution
 
 *Hollow Knight* is developed and owned by **Team Cherry**. This is an unofficial, non-commercial fan-created compendium and encyclopedia made under fair use. All game sprites and extracted assets are credited to Team Cherry and the community extraction archives curated by Sumwan.
